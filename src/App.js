@@ -1,7 +1,8 @@
 import React from 'react';
+import TechList from './components/TechList';
 
 function App() {
-  return <p>Chooks Start!</p>;
+  return <TechList />;
 }
 
 export default App;

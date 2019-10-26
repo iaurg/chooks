@@ -1,0 +1,11 @@
+{
+  "name": "chooks",
+  "version": "1.0.0",
+  "description": "A plataform to share opinions about books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Italo Aurelio and Richard Schott",
+  "license": "MIT"
+}

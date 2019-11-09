@@ -1,8 +1,8 @@
 import React from 'react';
-import TechList from './components/TechList';
+import Routes from './routes';
 
 function App() {
-  return <TechList />;
+  return <Routes />;
 }
 
 export default App;
